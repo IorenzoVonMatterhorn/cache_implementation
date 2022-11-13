@@ -261,5 +261,5 @@ int main() {
     //     cout << '\n';
     // }
 
-    cout << "hit rate: " << ((double)n_hit / (ind - 1)) * 100 << "% " << n_miss << " " << n_hit << endl; // hit rate read hits write
+    cout << "hit rate: " << ((double)n_hit / (ind - 1)) * 100 << "% " << endl; // hit rate read hits write
 }
